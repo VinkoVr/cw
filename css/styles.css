@@ -1,0 +1,160 @@
+body {
+text-align: center;
+font-family: "Libre-Baskerville";
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Libre-Baskerville";
+    font-weight: bold;
+}
+
+p {
+font-family: "Roboto";
+line-height: 2;
+
+}
+
+em {
+  font-family: "Roboto";
+  line-height: 2;
+  font-size: 1rem;
+  color: #A88B00;
+
+}
+
+/* CONTAINERS */
+.container-fluid {
+  padding: 7% 15%;
+  color: #fff;
+}
+/* SECTIONS */
+
+.colored {
+    background-color: #0602F5;
+}
+
+.white {
+  background-color: #fff;
+  color: #000;
+}
+
+/* HEADINGS SECTIONS */
+.big-heading {
+font-size: 3rem;
+line-height: 1.5;
+color: #F5CA02;
+}
+
+.title-heading {
+color: #fff;
+}
+
+.section-title {
+  font-size: 2rem;
+  line-height: 1.5;
+color: #F5CA02;
+}
+
+.card-title {
+  color:#F5CA02;
+}
+
+/* BUTTONS SECTION */
+.dugmad {
+
+}
+/* TITLE SECTION */
+#title {
+}
+
+.title-section {
+padding-top: 5rem;
+}
+
+.title-img {
+  width: 40%;
+  border-radius: 25%;
+}
+/* NAVIGATION BAR SECTION */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Libre+Baskerville";
+  font-size: 3rem;
+color: #F5CA02;
+}
+
+.nav-item {
+
+  font-size: 1.2rem;
+  padding: 0 1rem;
+}
+
+/* ABOUT ME SECTION */
+#about-me p {
+  width: 50%;
+  margin: auto;
+}
+
+.about-me-desc {
+  color: #A88B00;
+  font-size: 1rem;
+}
+
+/* FEATURES SECTIONS */
+
+
+
+.features-header {
+  color: #fff;
+}
+
+.features-desc {
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+/* MY WORK */
+#carouselExampleControls {
+  width: 70%;
+  margin: 3% auto;
+}
+
+.carousel-desc {
+  margin-top: 3%;
+    color: #A88B00;
+}
+
+/* PRICE SECTION */
+.cijena {
+  color: #A88B00;
+}
+
+.card-title {
+  margin-top: 2rem;
+}
+
+.card-text {
+    color: #A88B00;
+}
+
+.card-footer {
+  background-color: #fff;
+  border-style: none;
+}
+
+
+#cta .container-fluid {
+  width: 70%;
+}
+
+#footer .container-fluid {
+  padding:2%;
+}
+
+.special {
+  background-color:#fff;
+}
