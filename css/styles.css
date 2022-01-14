@@ -13,6 +13,7 @@ p {
 font-family: "Roboto";
 line-height: 2;
 
+
 }
 
 em {
@@ -147,9 +148,17 @@ color: #F5CA02;
 }
 
 
-#cta .container-fluid {
-  width: 70%;
+/* CONTACT ME SECTION */
+
+.contact-me-desc {
+  color: #A88B00;
 }
+
+.contact-form {
+  color: #A88B00;
+}
+
+/* FOOTER */
 
 #footer .container-fluid {
   padding:2%;
